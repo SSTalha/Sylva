@@ -1,0 +1,4 @@
+tk-tools==0.15.0
+customtkinter==5.2.2
+regex==2024.5.15
+tabulate==0.8.9
