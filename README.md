@@ -10,3 +10,14 @@
 3 - line (String)
 
 4 - binal (Boolean)
+
+### Dependencies and Installation
+To install Sylva, please follow these steps:
+
+1- Clone the repository to your local machine.
+
+2- Install the required dependencies by running the following command:
+
+```python
+pip install -r requirements.txt
+```
