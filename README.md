@@ -48,3 +48,7 @@ You can also use the graphical interface by running:
 ```python
 python gui.py
 ```
+
+![img_0](./images/Picture1.png)
+![img_2](./image_2.png)
+![img_3](./image_3.png)
