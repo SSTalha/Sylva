@@ -49,6 +49,11 @@ You can also use the graphical interface by running:
 python gui.py
 ```
 
-![img_0](./images/Picture1.png)
-![img_2](./image_2.png)
-![img_3](./image_3.png)
+### Screenshots
+
+![img_1](./images/Picture1.png)
+![img_2](./images/Picture2.png)
+![img_3](./images/Picture3.png)
+![img_4](./images/Picture4.png)
+![img_5](./images/Picture5.png)
+![img_6](./images/Picture6.png)
