@@ -51,7 +51,7 @@ python gui.py
 
 ### Screenshots
 
-![img_1](./images/Picture1.png)
+<img src = "./images/Picture1.png"  width="100" height="100">
 ![img_2](./images/Picture2.png)
 ![img_3](./images/Picture3.png)
 ![img_4](./images/Picture4.png)
