@@ -51,9 +51,9 @@ python gui.py
 
 ### Screenshots
 
-<img src = "./images/Picture1.png"  width="400" height="400">
-<img src = "./images/Picture2.png"  width="400" height="400">
-<img src = "./images/Picture3.png"  width="400" height="400">
-<img src = "./images/Picture4.png"  width="400" height="400">
-<img src = "./images/Picture5.png"  width="400" height="400">
-<img src = "./images/Picture6.png"  width="400" height="400">
+<img src = "./images/Picture1.png"  width="450" height="400">
+<img src = "./images/Picture2.png"  width="450" height="400">
+<img src = "./images/Picture3.png"  width="450" height="400">
+<img src = "./images/Picture4.png"  width="450" height="400">
+<img src = "./images/Picture5.png"  width="450" height="400">
+<img src = "./images/Picture6.png"  width="450" height="400">
