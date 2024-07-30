@@ -28,7 +28,7 @@ To install Sylva, please follow these steps:
 
 1- Clone the repository to your local machine.
 ```python
-git clone https://github.com/yourusername/sylva.git
+git clone https://github.com/SSTalha/Sylva.git
 ```
 
 2- Install the required dependencies by running the following command:
